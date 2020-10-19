@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ChartApp"
+    }
+  },
+  "defaultProject": "ChartApp",
+  "cli": {
+    "analytics": "21458e28-fcc4-43fc-90f6-ab96ec498a3e"
+  }
 }
